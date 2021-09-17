@@ -1,0 +1,17 @@
+body {
+    text-align: center;
+    background-color: lightblue;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.loggIn2{
+    border: 3px solid black;
+    margin-left: 45%;
+    margin-right: 45%;
+    background-color: rgba(112, 208, 224, 0.37);
+}
+h1{
+    font-weight: bold;
+}
+label{
+    font-weight: bolder;
+}
